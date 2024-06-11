@@ -1,0 +1,17 @@
+[package]
+name = "b3-color"
+description = "A tiny color management library"
+authors = ["Denis Sologub <ds.sologub@ya.ru>"]
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+repository = "https://github.com/Klein-Stein/b3-color"
+homepage = "https://github.com/Klein-Stein/b3-color"
+readme = "README.md"
+keywords = ["b3"]
+categories = ["os"]
+documentation = "https://docs.rs/crate/b3-color/latest"
+exclude = [
+    ".vscode/*",
+    "github/*",
+]
